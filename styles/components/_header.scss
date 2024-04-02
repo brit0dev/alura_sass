@@ -60,6 +60,9 @@ header {
         border-radius: 66px;
         cursor: pointer;
       }
+      button:hover {
+        background-color: variables.$cor-default;
+      }
     }
     .img-home {
       max-width: 474px;
