@@ -1,2 +1,2 @@
-##Alura Sass
+# Alura Sass
 Alura sass course.
